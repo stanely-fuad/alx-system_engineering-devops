@@ -1,1 +1,1 @@
-a script that list files
+ a script that print the type of the file iamafile
