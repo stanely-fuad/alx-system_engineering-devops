@@ -1,2 +1,2 @@
-#!/bin/bsh
-cp -u *.html ../
+#!/bin/bash
+ cp -v *.html ../
